@@ -1,0 +1,16 @@
+{
+  "name": "11-animals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animals.js",
+  "scripts": {
+    "dev": "nodemon animals.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ugne",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
